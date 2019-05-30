@@ -11,6 +11,8 @@
   "license": "ISC",
   "dependencies": {
     "csv-parser": "^2.3.0",
+    "knuth-shuffle": "^1.0.8",
+    "markov-chains-text": "^1.0.0",
     "natural": "^0.6.3",
     "stopword": "^0.2.4"
   }
